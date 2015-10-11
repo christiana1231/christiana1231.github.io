@@ -2,17 +2,16 @@
 
 In order to complete an asigment of my KPS 514 lesson, I was asked to create a blog on Github following the above instructions from this website *http://jmcglone.com/guides/github-pages/ 
 
-## Code Example
-
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+This project will be my blog in the future to add content of my work as photographer and video editor. 
 
 ## Installation
 
-Provide code examples and explanations of how to get the project.
+First think you need to do it's to create the *index.html* and there you add the structure of your html code. 
+
+
 
 ## API Reference
 
