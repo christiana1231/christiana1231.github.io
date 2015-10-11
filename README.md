@@ -1,6 +1,6 @@
-## Synopsis
+## BlogSpot 
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+In order to complete an asigment of my KPS 514 lesson, I was asked to create a blog on Github following the above instructions from this website *http://jmcglone.com/guides/github-pages/ 
 
 ## Code Example
 
